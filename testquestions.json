@@ -1,0 +1,124 @@
+[
+{
+    "number": 1,
+    "question": "Red Hat employees are allowed to accept gifts if:",
+    "answers": [
+        "The value is $100 or less",
+        "Public disclosure would not embarrass Red Hat",
+        "Acceptance is consistent with applicable country law and local customs",
+        "Acceptance is consistent with Red Hat business practices and policies",
+        "All of the above."
+    ],
+    "correctAnswer": 5,
+    "choice": 0
+},
+{
+    "number": 2,
+    "question": "Insider trading laws may prohibit you from trading Red Hat stock, but not the stock of a Red Hat customer.",
+    "answers": [
+        "True, because you have access to Red Hat's information, but not the customer's information",
+        "True, because you are not employed the customer.",
+        "False, as long as you place the trade during Red Hat's trading window.",
+        "False, because 'inside information' can include information about any company, whether Red Hat, customer, or another entity."
+    ],
+    "correctAnswer": 4,
+    "choice": 0
+},
+{
+    "number": 3,
+    "question": "Expenses for events and entertainment should be:",
+    "answers": [
+        "Reasonable",
+        "Appropriate to business context",
+        "Compliant with Red Hat Policy",
+        "Compliant with customer's policy.",
+        "All of the above."
+    ],
+    "correctAnswer": 5,
+    "choice": 0
+},
+{
+    "number": 4,
+    "question": "In order to close the deal, you send your customer a letter telling them they will get a 5% discount when they renew. This is:",
+    "answers": [
+        "OK, because your letter is not binding on Red Hat",
+        "OK, because the additional discount is within your approval authority",
+        "Not OK, because side letters are against Red Hat policy",
+        "Not OK, because Red Hat will get less revenue during the renewal period"
+    ],
+    "correctAnswer": 3,
+    "choice": 0
+},
+{
+    "number": 5,
+    "question": "If you become aware of a violation of Red Hat’s Code of Business Conduct and Ethics, you should:",
+    "answers": [
+        "Keep quiet unless you are told to do something",
+        "Hide it so that no one will know anything",
+        "Notify your manager, Red Hat Legal or call the Red Hat Corporate Governance Hotline",
+        "Keep quiet, but take whatever steps you can to fix it"
+    ],
+    "correctAnswer": 3,
+    "choice": 0
+},
+{
+    "number": 6,
+    "question": "Why do you need to get written approval from Red Hat Legal before buying a sandwich for a government official? ",
+    "answers": [
+        "Because Red Hat policy requires it.",
+        "To avoid the possibility of going to jail for bribery.",
+        "Because it may be prohibited by the Foreign Corrupt Practices Act (FCPA),which applies to giving anything of value.",
+        "All the above (and more)."
+    ],
+    "correctAnswer": 4,
+    "choice": 0
+},
+{
+    "number": 7,
+    "question": "It is OK for your spouse to trade Red Hat Stock when the trading window is closed.",
+    "answers": [
+        "Yes, as long as your spouse is not an employee of Red Hat.",
+        "Yes, if your spouse does not have material non-public information about Red Hat.",
+        "No, because the trading window applies to the employee and his/her immediate household.",
+        "No, because all trades of Red Hat stock must be in the employee’s name."
+    ],
+    "correctAnswer": 3,
+    "choice": 0
+},
+{
+    "number": 8,
+    "question": "What US law may be violated if you make a payment to a foreign official to secure a contract award:",
+    "answers": [
+        "HIPAA",
+        "Foreign Corrupt Practices Act (FCPA)",
+        "Sarbanes Oxley",
+        "Gramm-Leach-Bliley Act"
+    ],
+    "correctAnswer": 2,
+    "choice": 0
+},
+{
+    "number": 9,
+    "question": "You received a valid purchase order from a reseller for subscriptions.  Is it OK to book it even if you know the reseller does not yet have a binding agreement with the end customer to buy the products.",
+    "answers": [
+        "Yes, because the reseller’s responsibility is to take the risk that it doesn’t get the deal from the end customer.",
+        "Yes, because we are not supposed to inquire into the reseller’s business practices.",
+        "No, because it could artificially inflate bookings and cause inappropriate financial reporting.",
+        "No, because there is no deal until Red Hat receives the ordering documents directly from the end customer."
+    ],
+    "correctAnswer": 3,
+    "choice": 0
+},
+{
+    "number": 10,
+    "question": "If a distributor accidentally sends you a competitor’s quote, what should you do?",
+    "answers": [
+        "Stop reading, quarantine the information, and notify your manager or Red Hat Legal",
+        "Destroy it immediately",
+        "Use it to help create a winning technical and price solution for the client",
+        "None of the above"
+    ],
+    "correctAnswer": 1,
+    "choice": 0
+}
+]

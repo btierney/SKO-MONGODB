@@ -1,0 +1,12 @@
+// SKO-LATAM is the repository for answers
+// answers come in already concatenated
+// The record below is a sample 
+[
+	{
+	    "email": "employee@redhat.com",
+	    "region": "other",
+	    "answers": "5, 4, 5, 3, 3, 4, 3, 2, 3, 1",
+	    "score": 10,
+	    "_date": "2016-04-04T18:00:04.546Z"
+	}
+]

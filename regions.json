@@ -1,0 +1,10 @@
+[
+	{ "value" : "norhteast", "text": "North East" },
+	{ "value" : "southeast", "text": "South East" },
+	{ "value" : "west", "text": "West" },
+	{ "value" : "central", "text": "Central" },
+	{ "value" : "publiccenter", "text": "Public Sector" },
+	{ "value" : "fsi", "text": "FSI" },
+	{ "value" : "telco", "text": "Telco" },
+	{ "value" : "other", "text": "Other" }
+]
